@@ -1,11 +1,13 @@
 package org.learnjava.decodeways;
 
 /**
- * You can find this challenge at: https://leetcode.com/problems/decode-ways/description/
+ * You can find this challenge at:
+ * https://leetcode.com/problems/decode-ways/description/
  * 
  * Please don't forget to check out the tests file.
  * 
- * You can check out the explanation here: https://whimsical.com/91-decode-ways-leet-code-problem-applying-dynamic-programming-BPTM2HRVVRLVrcv2ZWzqLj
+ * You can check out the explanation here:
+ * https://whimsical.com/91-decode-ways-leet-code-problem-applying-dynamic-programming-BPTM2HRVVRLVrcv2ZWzqLj
  */
 public class DecodeWays {
     public int numDecodings(String s) {
